@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1756114879 source:d:\c programing practical 6 by chirag\check the stringis palindrome or not\main.c
+	<stdio.h>
+	<string.h>
+
